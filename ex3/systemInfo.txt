@@ -1,0 +1,280 @@
+{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2709890,
+        "nice": 0,
+        "sys": 3342875,
+        "idle": 10384531,
+        "irq": 668765
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2517812,
+        "nice": 0,
+        "sys": 1983062,
+        "idle": 11936328,
+        "irq": 236515
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 3161000,
+        "nice": 0,
+        "sys": 2470218,
+        "idle": 10806000,
+        "irq": 192937
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2676234,
+        "nice": 0,
+        "sys": 1910921,
+        "idle": 11850062,
+        "irq": 135640
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2955421,
+        "nice": 0,
+        "sys": 2274359,
+        "idle": 11207437,
+        "irq": 161171
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2765859,
+        "nice": 0,
+        "sys": 1701828,
+        "idle": 11969531,
+        "irq": 119890
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 3231640,
+        "nice": 0,
+        "sys": 2145750,
+        "idle": 11059812,
+        "irq": 146328
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2728640,
+        "nice": 0,
+        "sys": 1687625,
+        "idle": 12020953,
+        "irq": 110656
+      }
+    }
+  ],
+  "memory": 8419024896,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2710125,
+        "nice": 0,
+        "sys": 3343359,
+        "idle": 10386812,
+        "irq": 668921
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2518281,
+        "nice": 0,
+        "sys": 1983531,
+        "idle": 11938406,
+        "irq": 236593
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 3161578,
+        "nice": 0,
+        "sys": 2470781,
+        "idle": 10807859,
+        "irq": 193031
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2676640,
+        "nice": 0,
+        "sys": 1911265,
+        "idle": 11852312,
+        "irq": 135671
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2955875,
+        "nice": 0,
+        "sys": 2274828,
+        "idle": 11209515,
+        "irq": 161234
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2766187,
+        "nice": 0,
+        "sys": 1702265,
+        "idle": 11971765,
+        "irq": 119921
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 3232125,
+        "nice": 0,
+        "sys": 2146234,
+        "idle": 11061875,
+        "irq": 146406
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2728890,
+        "nice": 0,
+        "sys": 1688031,
+        "idle": 12023296,
+        "irq": 110703
+      }
+    }
+  ],
+  "memory": 8419024896,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2710375,
+        "nice": 0,
+        "sys": 3343625,
+        "idle": 10389312,
+        "irq": 668984
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2518687,
+        "nice": 0,
+        "sys": 1983765,
+        "idle": 11940781,
+        "irq": 236656
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 3162156,
+        "nice": 0,
+        "sys": 2471078,
+        "idle": 10810000,
+        "irq": 193062
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2676921,
+        "nice": 0,
+        "sys": 1911546,
+        "idle": 11854765,
+        "irq": 135671
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2956296,
+        "nice": 0,
+        "sys": 2275171,
+        "idle": 11211765,
+        "irq": 161281
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2766328,
+        "nice": 0,
+        "sys": 1702484,
+        "idle": 11974421,
+        "irq": 119968
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 3232500,
+        "nice": 0,
+        "sys": 2146484,
+        "idle": 11064250,
+        "irq": 146421
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz",
+      "speed": 2400,
+      "times": {
+        "user": 2729156,
+        "nice": 0,
+        "sys": 1688343,
+        "idle": 12025734,
+        "irq": 110765
+      }
+    }
+  ],
+  "memory": 8419024896,
+  "platform": "win32"
+}
