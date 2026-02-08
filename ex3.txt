@@ -4,4 +4,4 @@ Exercise 3: Conflict Resolution
 3. Merge one branch into main
 4. Attempt to merge the second branch
 5. Resolve the conflict manually
-from feature1 branch
+from feature1 and feature2 branch
