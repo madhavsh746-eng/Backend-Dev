@@ -1,4 +1,4 @@
-# mini project-minni social midea platform
+# mini project-mini social midea platform
 📦 Repositories
 🔙 Backend Repo: https://github.com/madhavsh746-eng/franilt-backend
 🎨 Frontend Repo: https://github.com/madhavsh746-eng/franilt-frontend
