@@ -1,23 +1,29 @@
-import mongoose from "mongoose";
-const stockSchema = new mongoose.Schema({
-    name:{
-        type:String,
-        required:true,
-        trim:true,
-        lowercase:true,
-        minLength:3,
-        maxLength:100,
-    },
-    price:{
-        type:Number,
-        required:true,
+const mongoose = require("mongoose");
 
+const stockSchema = new mongoose.Schema({
+    symbol: {
+        type: String,
+        required: true,
+        uppercase: true, 
+        trim: true
     },
-    quantity:{
-        type:Number,
-        required:true
+    name: {
+        type: String,
+        required: true,
+        trim: true
+    },
+    price: {
+        type: Number,
+        required: true
+    },
+    quantity: {
+        type: Number,
+        required: true
+    },
+    user: {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "User" 
     }
-    
-})
-let stoke = mongoose.model("stoke",stockSchema);
-export default stoke;
+}, { timestamps: true });
+
+module.exports = mongoose.model("Stock", stockSchema);
